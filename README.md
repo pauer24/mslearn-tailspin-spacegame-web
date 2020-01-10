@@ -1,3 +1,4 @@
+[![Build Status](https://pcervello.visualstudio.com/DevOps%20pipes/_apis/build/status/pauer24.mslearn-tailspin-spacegame-web?branchName=master)](https://pcervello.visualstudio.com/DevOps%20pipes/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
